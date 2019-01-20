@@ -11,3 +11,6 @@ Simple diseño 3d  css,javascript,webgl lamentablemente ese proyecto no puede se
   > node server.js
 ##  4.- Abrir el Navegador y acceder a localhost
   
+# Capturas
+![img](./sg1.PNG)
+![img](./sg2.PNG)
