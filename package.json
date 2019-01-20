@@ -1,0 +1,14 @@
+{
+  "name": "gears",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CSS3DRenderer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeancode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
